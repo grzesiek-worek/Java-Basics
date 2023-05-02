@@ -8,3 +8,13 @@ In the `Task01.java` file, write a method with the signature:
 `public static int multiply(int multipler, int index)`,
 
 which will return the value of the variable `multipler` multiplied by the value of the argument `index`.
+
+## Task 2
+
+In the `Task02.java` file, write a method with the signature:
+
+`public static int square(int num)`,
+
+which will return `num` squared.
+
+
