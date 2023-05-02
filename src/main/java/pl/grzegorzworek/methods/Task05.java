@@ -9,7 +9,6 @@ public class Task05 {
     }
 
     // second option
-
     public static boolean checkMaturityTwo(int age){
         return age >=18;
     }
