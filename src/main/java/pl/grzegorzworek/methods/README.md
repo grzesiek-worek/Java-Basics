@@ -55,3 +55,10 @@ The method is supposed to return the net value of the price. Write in the commen
 ## Task 7
 
 In the `Task07.java` file, write a public `maxOfThree` method that takes three numeric parameters. The method is supposed to return the largest number.
+
+## Task 8
+
+In the file `Task08.java` write a public method `factorial`,
+which will take a natural number `n` as a parameter.
+
+The method is to return the value `n!`, which is the result of multiplying all natural numbers in the range `1...n`.
