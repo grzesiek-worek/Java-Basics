@@ -49,3 +49,11 @@ we will get the result:
 ```
 11, 24, 71, 25, 13
 ```
+
+## Task 5
+
+In the `Task05.java` file:
+
+1. create an array called `numbers` containing 10 arbitrary numbers,
+2. sort the array in ascending order using the methods of the `Arrays` class,
+3. display the sorted array in the console - also using the method from the `Arrays` class.
