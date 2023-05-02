@@ -24,4 +24,14 @@ The method is supposed to return the given amount in Euro.
 
 Use 4.25 PLN = 1 EUR as a conversion factor.
 
+## Task 4
+
+In the `Task04.java` file, write a public `createName` method that takes the following parameters:
+
+* `name`: name,
+* `surname`: surname,
+* `nickname`: nickname.
+
+The method is to return a text string with combined parameters, in the form: "first name nickname last name".
+
 
