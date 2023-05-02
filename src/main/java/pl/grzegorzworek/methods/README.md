@@ -34,4 +34,11 @@ In the `Task04.java` file, write a public `createName` method that takes the fol
 
 The method is to return a text string with combined parameters, in the form: "first name nickname last name".
 
+## Task 5
 
+In the file `Task05.java` write a public method `checkMaturity` which:
+
+* will accept the numerical parameter `age` meaning the user's age,
+* check if the user is an adult,
+* will return `true` &ndash; if he is an adult,
+* will return `false` &ndash; if it isn't.
