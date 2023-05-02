@@ -17,4 +17,11 @@ In the `Task02.java` file, write a method with the signature:
 
 which will return `num` squared.
 
+## Task 3
+
+In the file `Task03.java`, write a public method `convertToEuro`, which takes the parameter `pln`, i.e. the amount in PLN.
+The method is supposed to return the given amount in Euro.
+
+Use 4.25 PLN = 1 EUR as a conversion factor.
+
 
