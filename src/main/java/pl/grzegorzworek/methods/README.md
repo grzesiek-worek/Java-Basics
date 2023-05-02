@@ -42,3 +42,12 @@ In the file `Task05.java` write a public method `checkMaturity` which:
 * check if the user is an adult,
 * will return `true` &ndash; if he is an adult,
 * will return `false` &ndash; if it isn't.
+
+## Task 6
+
+In the file `Task05.java` write a public method `calculateNet` that will accept arguments:
+
+* `gross`: the gross amount of the purchase price,
+* `tax`: value of TAX. You can assume TAX to be a floating point number in the range 0 &ndash; 1.
+
+The method is supposed to return the net value of the price. Write in the comment what calculations you need to do.
