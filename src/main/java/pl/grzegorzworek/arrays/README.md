@@ -57,3 +57,18 @@ In the `Task05.java` file:
 1. create an array called `numbers` containing 10 arbitrary numbers,
 2. sort the array in ascending order using the methods of the `Arrays` class,
 3. display the sorted array in the console - also using the method from the `Arrays` class.
+
+## Task 6
+
+In the `Task06.java` file:
+
+1. create an array called `numbers` containing 10 arbitrary numbers,
+2. create a second array, name it `secondNumbers`, fill it with any 10 numbers,
+3. create a third array containing the sums of the elements that have the same index position in the arrays.
+
+For sample arrays:
+```java
+int[] numbers = {12, 31};
+int[] secondNumbers = {13, 14};
+```
+the result will be an array with elements `25 and 45`.
