@@ -32,3 +32,20 @@ In the `Task03.java` file:
      [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
      ````
 Do task **without using the `for` loop**.
+
+## Task 4
+
+In the `Task04.java` file:
+
+1. create an array called `numbers` containing 10 arbitrary numbers,
+2. create an array variable `reverse` and put the elements of the `numbers` array in it in reverse order,
+3. print the elements from the `reverse` array to the console.
+
+For an array with elements:
+```
+13, 25, 71, 24, 11
+```
+we will get the result:
+```
+11, 24, 71, 25, 13
+```
