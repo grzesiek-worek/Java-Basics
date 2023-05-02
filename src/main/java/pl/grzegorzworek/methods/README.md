@@ -62,3 +62,12 @@ In the file `Task08.java` write a public method `factorial`,
 which will take a natural number `n` as a parameter.
 
 The method is to return the value `n!`, which is the result of multiplying all natural numbers in the range `1...n`.
+
+## Task 9
+
+In the `Task09.java` file, write a public `checkEvenOdd` method that:
+
+* will accept the numeric parameter `number`,
+* will return a value of type `String`,
+* will return "even" if the number is even,
+* will return "odd" if the number is odd.
