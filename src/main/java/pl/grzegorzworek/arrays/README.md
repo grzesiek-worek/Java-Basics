@@ -22,3 +22,13 @@ In the `Task02.java` file:
 
 1. using the `for` loop, create an array called `randNumbers`, containing 20 random numbers from the `0-100` range (use the method described in the snippets to get a random value),
 2. print the minimum value from the table in the console.
+
+## Task 3
+
+In the `Task03.java` file:
+
+1. create a 10 element array filled with a single value "5". The table should look like this:
+     ````
+     [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+     ````
+Do task **without using the `for` loop**.
