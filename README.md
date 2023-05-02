@@ -5,7 +5,7 @@ Sample tasks using Java ![JAVA](https://img.shields.io/badge/-JAVA-0A1A5A?style=
  ** ... work in progress ... **
 
 ## Sample task description:
-### Arrays
+### <a href="src/main/java/pl/grzegorzworek/arrays">Arrays</a>
 ### Exception
 ### Methods
 
