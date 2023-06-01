@@ -33,3 +33,11 @@ In the file `Task04.java` file:
 1. put the method `public static int toInt(String str)`.
 2. complete the method body so that it returns the string `str` converted to the `int` type,
 3. handle possible exceptions.
+
+## Task 5
+In the file `Task05.java` file:
+
+1. put the method `public static int getLength(String str)`.
+2. complete the method body so that it returns the length of the string `str`,
+3. test the operation of the method by passing a parameter with the value `null` to it,
+4. protect the program against `NullPointerException`.
