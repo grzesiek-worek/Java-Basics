@@ -90,5 +90,15 @@ In the `Task08.java` file
 1. put the method `public static int[] append(int[] arr)`.
 2. complete the method body so that the content of the received array is copied to a temporary array, the size of which is to be twice as large as the given array.
 3. complete the missing elements of the temporary array with the elements of the original array in reverse order.
-   The 4th method is to return the copied and completed array.
-   Example: for an array int arr[] = {1,2,3}; an array is to be returned int arrTmp[] = {1,2,3,3,2,1};
+4. method is to return the copied and completed array. 
+
+Example: for an array int arr[] = {1,2,3}; an array is to be returned int arrTmp[] = {1,2,3,3,2,1};
+
+## Task 9
+
+In the `Task09.java` file
+
+1. put the method `public static int[] returnUnique(int[] arr)`.
+2. complete the method body in such a way that it selects only unique values from the `arr` array, which are then to be returned from the method. 
+
+Example: for array [1,1,2,3,3,4], we should get array [1,2,3,4].
