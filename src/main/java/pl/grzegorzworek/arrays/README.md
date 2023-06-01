@@ -73,3 +73,12 @@ int[] numbers = {12, 31};
 int[] secondNumbers = {13, 14};
 ```
 the result will be an array with elements `25 and 45`.
+
+## Task 7
+
+In the `Task07.java` file
+
+1. put the method `public static boolean contains(int[] arr, int element)`.
+2. complete the method body so that it checks whether there is an `element` in the `arr` array,
+3. if yes, return `true`,
+4. if it is not supposed to return `false`.
