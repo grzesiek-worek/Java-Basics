@@ -49,3 +49,12 @@ In the file `Task06.java` file:
 2. complete the method body so that it returns the element of the array `strTab` contained under the index `index`,
 3. add the appropriate exception handler.
 
+## Task 7
+In the file `Task07.java` file:
+
+1. put the method `public static void average(String a, String b)`.
+2. complete the method body so that it converts the variables `a` and `b` to the numerical type `int` and performs the division of the variable `a` by the variable `b`,
+3. protect the program against possible errors,
+4. add a section that will always execute regardless of whether an error occurs or not,
+5. remember about the `ArithmeticException` error,
+6. change the type of variables `a` and `b` to `double` and see what results you get when dividing by `0`.
