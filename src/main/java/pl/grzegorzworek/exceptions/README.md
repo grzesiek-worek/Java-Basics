@@ -26,3 +26,10 @@ In the file `Task03.java` file:
 3. if the array does not have the given element, return the exception `NoSuchElementException`,
 4. test the operation of the program by calling the `indexOf` method with an element that is present in the array and with one that does not appear in it,
 5. when calling the `indexOf` method, add the `NoSuchElementException` exception handler.
+
+## Task 4
+In the file `Task04.java` file:
+
+1. put the method `public static int toInt(String str)`.
+2. complete the method body so that it returns the string `str` converted to the `int` type,
+3. handle possible exceptions.
