@@ -7,7 +7,7 @@ public class Task04 {
     }
     public static void main(String[] args) {
         String napis1 = "123";
-        String napis2 = "Alpha";
+        String napis2 = "Alfa";
         try {
             System.out.println(toInt(napis1));
             System.out.println(toInt(napis2));
