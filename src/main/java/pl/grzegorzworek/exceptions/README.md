@@ -17,3 +17,12 @@ In the `Task02.java` file:
 
 1. divide the numbers by zero
 2. handle division by zero - `ArithmeticException` exception
+
+## Task 3
+In the file `Task03.java` file:
+
+1. put the method `public static int indexOf(int[] elements, int value)`.
+2. complete the method body so that it returns the index of the `value` element contained in the `elements` array,
+3. if the array does not have the given element, return the exception `NoSuchElementException`,
+4. test the operation of the program by calling the `indexOf` method with an element that is present in the array and with one that does not appear in it,
+5. when calling the `indexOf` method, add the `NoSuchElementException` exception handler.
