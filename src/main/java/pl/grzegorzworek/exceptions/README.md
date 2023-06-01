@@ -7,7 +7,6 @@ In the `Task01.java` file:
 
 1. there is a method that returns the factorial of the natural number passed in the parameter.
 2. modify the code so that the method returns an `IllegalArgumentException` exception when the `number` passed in the parameter is less than zero,
-2. note whether it is a controlled or unchecked exception and why,
 3. test the operation of the program by calling the `factorial` method with the correct and incorrect parameter,
 4. when calling the `factorial` method, add the `IllegalArgumentException` exception handler,
 5. test the program again.
@@ -16,32 +15,5 @@ In the `Task01.java` file:
 
 In the `Task02.java` file:
 
-1.
-2.
-
-## Task 3
-
-In the `Task03.java` file:
-
-1.
-2.
-
-## Task 4
-
-In the `Task04.java` file:
-
-1.
-2.
-
-## Task 5
-
-In the `Task05.java` file:
-
-1.
-2.
-## Task 6
-
-In the `Task06.java` file:
-
-1.
-2.
+1. divide the numbers by zero
+2. handle division by zero - `ArithmeticException` exception
