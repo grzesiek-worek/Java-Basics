@@ -88,3 +88,10 @@ dogAge(1.5) # expected result: 1.5 * 10.5 = 15.75
 
 dogAge(5) # expected result: 2 * 10.5 + 3 * 4 = 33
 ```
+
+## Task 11
+
+In the `Task11.java` file
+
+1. put a method with the signature `public static boolean divisibleBy(int a, int b )`:
+2. Complete the method body so that it returns `true` or `false` depending on whether the variable `a` is divisible by `b`.
