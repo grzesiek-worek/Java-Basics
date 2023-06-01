@@ -82,3 +82,13 @@ In the `Task07.java` file
 2. complete the method body so that it checks whether there is an `element` in the `arr` array,
 3. if yes, return `true`,
 4. if it is not supposed to return `false`.
+
+## Task 8
+
+In the `Task08.java` file
+
+1. put the method `public static int[] append(int[] arr)`.
+2. complete the method body so that the content of the received array is copied to a temporary array, the size of which is to be twice as large as the given array.
+3. complete the missing elements of the temporary array with the elements of the original array in reverse order.
+   The 4th method is to return the copied and completed array.
+   Example: for an array int arr[] = {1,2,3}; an array is to be returned int arrTmp[] = {1,2,3,3,2,1};
