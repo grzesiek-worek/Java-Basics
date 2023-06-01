@@ -41,3 +41,11 @@ In the file `Task05.java` file:
 2. complete the method body so that it returns the length of the string `str`,
 3. test the operation of the method by passing a parameter with the value `null` to it,
 4. protect the program against `NullPointerException`.
+
+## Task 6
+In the file `Task06.java` file:
+
+1. put the method `public static String safeGet(String[] strTab, int index)`.
+2. complete the method body so that it returns the element of the array `strTab` contained under the index `index`,
+3. add the appropriate exception handler.
+
