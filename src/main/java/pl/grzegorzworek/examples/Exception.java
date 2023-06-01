@@ -1,8 +1,6 @@
 package pl.grzegorzworek.examples;
 
-import java.sql.SQLOutput;
-
-public class exception {
+public class Exception {
 
     public static void printMessage(String message) {
         if (message == null) {

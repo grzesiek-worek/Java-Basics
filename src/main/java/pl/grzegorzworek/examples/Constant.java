@@ -1,6 +1,6 @@
 package pl.grzegorzworek.examples;
 
-public class constant {
+public class Constant {
 
     public static void main(String[] args) {
 
