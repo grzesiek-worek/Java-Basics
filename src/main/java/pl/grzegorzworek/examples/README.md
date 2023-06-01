@@ -1,4 +1,4 @@
-# Some examples
+# Some examples - in progress
 <a href="https://github.com/grzesiek-worek/Java-Basics">Go back Main Page Repository</a>
 
 * arrays
